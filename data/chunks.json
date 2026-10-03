@@ -1,0 +1,42 @@
+[
+  {
+    "id": "sample-policy.pdf#1",
+    "doc": "sample-policy.pdf",
+    "page": 1,
+    "section": "Art. 1 Insured persons",
+    "text": "The policyholder and all persons living in the same household are insured. Children in educa-tion are covered until the age of 25.",
+    "words": 22
+  },
+  {
+    "id": "sample-policy.pdf#2",
+    "doc": "sample-policy.pdf",
+    "page": 1,
+    "section": "Art. 2 Insured disputes",
+    "text": "The insurer covers legal disputes arising from employment contracts, tenancy agreements and consumer contracts concluded by the insured person. Disputes concerning traffic accidents are covered if the insured person is the driver or owner of the vehicle.",
+    "words": 37
+  },
+  {
+    "id": "sample-policy.pdf#3",
+    "doc": "sample-policy.pdf",
+    "page": 2,
+    "section": "Art. 3 Exclusions",
+    "text": "The following disputes are not covered: divorce and separation proceedings; disputes with the insurer itself; disputes arising from intentional criminal acts.",
+    "words": 21
+  },
+  {
+    "id": "sample-policy.pdf#4",
+    "doc": "sample-policy.pdf",
+    "page": 2,
+    "section": "Art. 4 Waiting period",
+    "text": "A waiting period of three months applies to employment and tenancy disputes. No waiting period applies to traffic accidents.",
+    "words": 19
+  },
+  {
+    "id": "sample-policy.pdf#5",
+    "doc": "sample-policy.pdf",
+    "page": 2,
+    "section": "Art. 5 Sum insured",
+    "text": "The maximum sum insured is CHF 600,000 per case in Europe and CHF 150,000 outside Europe.",
+    "words": 16
+  }
+]
